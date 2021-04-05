@@ -1,0 +1,36 @@
+[03-Apr-2021 19:30:22 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/birmuywat/bir/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[03-Apr-2021 19:30:32 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/birmuywat/bir/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[03-Apr-2021 19:31:04 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/birmuywat/bir/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[03-Apr-2021 19:32:07 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/birmuywat/bir/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[04-Apr-2021 23:27:27 Asia/Riyadh] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('view')
+#1 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('view')
+#2 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('view', Array)
+#5 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php(1280): Illuminate\Foundation\Application->make('view in /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[04-Apr-2021 23:27:32 Asia/Riyadh] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('view')
+#1 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('view')
+#2 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('view', Array)
+#5 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php(1280): Illuminate\Foundation\Application->make('view in /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[04-Apr-2021 23:27:43 Asia/Riyadh] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('view')
+#1 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('view')
+#2 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('view', Array)
+#5 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php(1280): Illuminate\Foundation\Application->make('view in /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[04-Apr-2021 23:28:29 Asia/Riyadh] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('view')
+#1 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('view')
+#2 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('view', Array)
+#5 /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php(1280): Illuminate\Foundation\Application->make('view in /home/birmuywat/bir/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
